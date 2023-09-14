@@ -3,7 +3,7 @@
 I created a project in Adobe XD in this repository, 
 trying not to distort the image on the web.
 
-![urun-Yorum.gif](urun-Yorum.gif)
+![urunYorum.gif](urunYorum.gif)
 
 ## Technologies
 
